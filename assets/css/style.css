@@ -22,3 +22,96 @@ nav{
 }
 
 
+
+
+
+
+
+/* hero cover */
+
+
+#hero-container{
+    height: 900px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#hero-image{
+    height: 900px;
+    width: 100%;
+    background-image: url("../img/band-hero-img.jpg");
+    background-size: cover;
+    background-position: center;
+    animation-name: hero-image-zoom;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-image-zoom{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+    }
+}
+
+#hero-cover-text h1{
+    color: antiquewhite;
+    font-size: 250%;
+    margin-bottom: 25px;
+    line-height: 50px;
+}
+#hero-cover-text h2{
+    font-size: 120%;
+    color: antiquewhite;
+    line-height: 25px;
+}
+
+#hero-cover-text{
+    color: antiquewhite;
+    text-shadow: 3px 3px black;
+    font-family: roboto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 150%;
+
+    width: 1000px;
+    height: 100px;
+
+    top: 425px;
+    left: 175px;
+    position: absolute;
+    text-align: left;
+
+
+}
+
+
+
+@media screen and (max-width: 1393px){
+
+    #hero-cover-text{
+        width: 500px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 755px){
+
+    #hero-cover-text{
+        width: 100px;
+        left: 30px;
+        line-height: 2px;
+    }
+
+}
+
+
+
+
+
