@@ -41,7 +41,7 @@ nav{
 
 
 #hero-container{
-    height: 900px;
+    height: 787px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -107,6 +107,7 @@ nav{
         width: 500px;
     }
 
+   
 }
 
 
@@ -119,11 +120,87 @@ nav{
         line-height: 2px;
     }
 
+    
+
 }
 
 
 
+/* --- latest albums --- */
 
+
+.text-center{
+    padding-top: 50px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.flex-container a{
+    text-decoration: none;
+}
+
+.flex-container a:hover{
+    box-shadow: 3.9px 7.8px 7.8px hsl(0deg 0% 0% / 0.38);
+
+}
+
+.card{
+    width: 400px;
+    height: 400px;
+    padding: 30px 0 0 10px;
+    
+    margin: 15px;
+    flex-shrink: 0;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card h3{
+    color: antiquewhite;
+    text-shadow: 3px 3px black;
+    font-family: roboto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+.card p{
+    color: antiquewhite;
+    text-shadow: 3px 3px black;
+    font-family: roboto;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+#album1{
+    background: url("../img/unknown-pleasures.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+	
+}
+
+#album2{
+    background: url("../img/blackwater-park.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#album3{
+    background: url("../img/paranoid.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 
 
@@ -159,8 +236,7 @@ footer{
     border-top: 2px solid #333;
     background-color: antiquewhite;
     padding-top: 30px;
-    position:fixed;
-    bottom:0;
+    
 }
 
 
