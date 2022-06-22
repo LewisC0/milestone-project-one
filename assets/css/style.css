@@ -101,28 +101,7 @@ nav{
 
 
 
-@media screen and (max-width: 1393px){
 
-    #hero-cover-text{
-        width: 500px;
-    }
-
-   
-}
-
-
-
-@media screen and (max-width: 755px){
-
-    #hero-cover-text{
-        width: 100px;
-        left: 30px;
-        line-height: 2px;
-    }
-
-    
-
-}
 
 
 
@@ -202,6 +181,86 @@ nav{
     background-position: center;
 }
 
+/* --- album list --- */
+
+.album-list h1{
+    margin: 10px;
+    
+}
+
+.review-container{
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 2px solid #333;
+    margin: 0 10px 0 10px;
+}
+
+
+.album-image-card{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    flex-shrink: 0;
+  
+}
+
+.album-text{
+    width: 1000px;
+    min-height: 400px;
+    margin: 10px;
+}
+
+.album-text h3{
+    margin: 10px 0 10px 0;
+}
+
+.album-text p{
+    margin: 0;
+    font-size: 1.5em;
+
+    padding: 50px 0;
+    
+}
+
+
+
+
+@media screen and (max-width: 1393px){
+
+    #hero-cover-text{
+        width: 500px;
+    }
+
+    .review-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .album-text{
+        text-align: center;
+    }
+
+    
+   
+}
+
+
+
+@media screen and (max-width: 755px){
+
+    #hero-cover-text{
+        width: 100px;
+        left: 30px;
+        line-height: 2px;
+    }
+
+    .album-text p{
+        padding: 25px 0;
+    }
+    
+
+}
 
 
 
@@ -223,6 +282,9 @@ nav{
 .contact-margin-bottom{
     margin-bottom: 10px;
 }
+
+
+
 
 
 
@@ -261,3 +323,5 @@ footer{
 .social-media h3{
     margin-right: 70px;
 }
+
+
