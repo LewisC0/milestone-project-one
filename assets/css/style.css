@@ -13,14 +13,14 @@
 
 body{
 
-    background-color: antiquewhite;
+    background-color: #fafafa;
 
 
 }
 
 
 nav{
-    background-color: antiquewhite;
+    background-color: #fafafa;
 }
 
 /* --- text --- */
@@ -33,7 +33,7 @@ nav{
 /* --- header --- */
 
 .active{
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #0275d8;
 }
 
 
@@ -69,20 +69,20 @@ nav{
 }
 
 #hero-cover-text h1{
-    color: antiquewhite;
+    color: #fafafa;
     font-size: 250%;
     margin-bottom: 25px;
     line-height: 50px;
 }
 #hero-cover-text h2{
     font-size: 120%;
-    color: antiquewhite;
+    color: #fafafa;
     line-height: 25px;
 }
 
 #hero-cover-text{
-    color: antiquewhite;
-    text-shadow: 3px 3px black;
+    color: #fafafa;
+    text-shadow: 3px 3px #333;
     font-family: roboto;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -132,7 +132,7 @@ nav{
 .card{
     width: 400px;
     height: 400px;
-    padding: 30px 0 0 10px;
+    padding: 30px 0 0 0;
     
     margin: 15px;
     flex-shrink: 0;
@@ -144,17 +144,18 @@ nav{
 }
 
 .card h3{
-    color: antiquewhite;
-    text-shadow: 3px 3px black;
+    color: #fafafa;
+    text-shadow: 3px 3px #333;
     font-family: roboto;
     text-transform: uppercase;
     letter-spacing: 2px;
+    
 }
 
 
 .card p{
-    color: antiquewhite;
-    text-shadow: 3px 3px black;
+    color: #fafafa;
+    text-shadow: 3px 3px #333;
     font-family: roboto;
     letter-spacing: 2px;
     text-align: center;
@@ -181,6 +182,22 @@ nav{
     background-position: center;
 }
 
+#album4{
+
+}
+
+#album5{
+
+}
+
+
+
+
+
+
+
+
+
 /* --- album list --- */
 
 .album-list h1{
@@ -190,7 +207,7 @@ nav{
 
 .review-container{
     display: flex;
-    flex-wrap: wrap;
+    margin: 0 auto;
     border-top: 2px solid #333;
     margin: 0 10px 0 10px;
 }
@@ -205,9 +222,9 @@ nav{
 }
 
 .album-text{
-    width: 1000px;
-    min-height: 400px;
-    margin: 10px;
+    flex-grow: 1;
+    margin-left: 10px;
+    flex-basis: 1000px;
 }
 
 .album-text h3{
@@ -222,8 +239,80 @@ nav{
     
 }
 
+.album-text p a{
+    margin-top: 25px;
+}
 
 
+
+
+
+
+/* --- form --- */
+
+.contact-form-header{
+    font-weight: 400;
+    margin-top: 150px;
+
+
+}
+
+.contact-form-center{
+    margin: 0 auto;
+    max-width: 70%;
+    margin-bottom: 100px;
+}
+
+.contact-margin-bottom{
+    margin-bottom: 10px;
+}
+
+
+
+
+/* --- footer --- */
+
+footer{
+    background-color: #fafafa;
+    min-width: 120px;
+    border-top: 2px solid #0275d8;
+    padding: 15px 0 15px 0;
+}
+
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col{
+    flex-grow: 1;
+    flex-basis: 300px;
+    text-align: center;
+}
+
+
+.col li a i{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #fafafa;
+    background-color: #0275d8;
+
+}
+
+
+
+/* --- Media Queries --- */
 
 @media screen and (max-width: 1393px){
 
@@ -261,67 +350,3 @@ nav{
     
 
 }
-
-
-
-/* --- form --- */
-
-.contact-form-header{
-    font-weight: 400;
-    margin-top: 150px;
-
-
-}
-
-.contact-form-center{
-    margin: 0 auto;
-    max-width: 70%;
-    margin-bottom: 100px;
-}
-
-.contact-margin-bottom{
-    margin-bottom: 10px;
-}
-
-
-
-
-
-
-
-/* --- footer --- */
-
-
-
-footer{
-    min-width: 120px;
-    border-top: 2px solid #333;
-    background-color: antiquewhite;
-    padding-top: 30px;
-    
-}
-
-
-.social-media{
-    padding-bottom: 15px;
-}
-
-.social-media li a i{
-    width: 40px;
-    height: 40px;
-    margin-right: 40px;
-    border-radius: 50%;
-    font-size: 30px;
-    line-height: 40px;
-    text-align: center;
-
-    color: #333;
-    background-color: #8f8f8f;
-
-}
-
-.social-media h3{
-    margin-right: 70px;
-}
-
-
