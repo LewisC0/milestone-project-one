@@ -75,7 +75,9 @@ Footer
 
 
 
-wireframes
+## Wireframes
+
+- [Here are the wireframes I created for the site](https://github.com/LewisC0/milestone-project-one/blob/main/wireframes/LCReviews%20Milestone%20Project%20PDF.pdf)
 
 
 
@@ -96,30 +98,30 @@ wireframes
 
 ## Languages
 
-HTML5 [https://en.wikipedia.org/wiki/HTML]
+-[HTML5](https://en.wikipedia.org/wiki/HTML)
 
-CSS3 [https://en.wikipedia.org/wiki/CSS]
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Libraries/Frameworks
 
-Font Awesome [https://fontawesome.com/] - I used several social media icons within the footer of my website
+- [Font Awesome](https://fontawesome.com/) - I used several social media icons within the footer of my website
 
-Google Fonts[https://fonts.google.com/] - I used the google font 'Roboto' throughout the entire website.
+- [Google Fonts](https://fonts.google.com/) - I used the google font 'Roboto' throughout the entire website.
 
-Bootstrap4.5 [https://getbootstrap.com/docs/4.5/getting-started/introduction/] - I used Bootstrap to create a
+- [Bootstrap4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - I used Bootstrap to create a
 responsive navbar, as well as including some Bootstrap buttons and class stylings. All code was sourced from the Bootstrap documentation.
 
-jQuery [https://jquery.com/] - jQuery was implemented alongside Bootstrap4.5, for use in the responsive navbar.
+- [jQuery](https://jquery.com/) - jQuery was implemented alongside Bootstrap4.5, for use in the responsive navbar.
 
-Gitpod [https://gitpod.io/workspaces] - Gitpod was used to write and create the website, using the inbuilt VSCode IDE.
+- [Gitpod](https://gitpod.io/workspaces) - Gitpod was used to write and create the website, using the inbuilt VSCode IDE.
 
-GitHub [https://github.com/] - Github was used to store the code within a repository and to host the site using GitHub Pages.
+- [GitHub](https://github.com/) - Github was used to store the code within a repository and to host the site using GitHub Pages.
 
-Git [https://git-scm.com/] - Git commands were used within the IDE to track version control.
+- [Git](https://git-scm.com/) - Git commands were used within the IDE to track version control.
 
-Balsamiq - I used Balsamiq to design the wireframes for the website.
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Through the creation of the website, I used Chrome DevTools to troubleshoot and test the responsiveness of the website.
 
-Chrome DevTools [https://developer.chrome.com/docs/devtools/] - Through the creation of the website, I used Chrome DevTools to troubleshoot and test the responsiveness of the website.
+- Balsamiq - I used Balsamiq to design the wireframes for the website.
 
 
 # Testing
@@ -156,10 +158,10 @@ How to setup and run this website locally
 
 # Credits
 
-Code Institute [https://codeinstitute.net/] - I referred to lessons and source code from Code Institute's Web Application Development course.
+[Code Institute](https://codeinstitute.net/) - I referred to lessons and source code from Code Institute's Web Application Development course.
 I sourced code for the Footer social media links and icons from the Resume Project, as well as the Bootstrap Navbar.
 
-Bootstrap4.5 [https://getbootstrap.com/docs/4.5/getting-started/introduction/] - I used Bootstrap to create a
+[Bootstrap4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - I used Bootstrap to create a
 responsive navbar, as well as including some Bootstrap buttons and class stylings. All code was sourced from the Bootstrap documentation.
 
 
@@ -168,7 +170,7 @@ responsive navbar, as well as including some Bootstrap buttons and class styling
 
 All the content on the website I wrote myself. I referred to the following websites as inspiration
 
-NME [https://www.nme.com/reviews/album] - For inspiration on the 'Albums' page
+[NME](https://www.nme.com/reviews/album) - For inspiration on the 'Albums' page
 
 
 
@@ -177,21 +179,21 @@ NME [https://www.nme.com/reviews/album] - For inspiration on the 'Albums' page
 The Hero Image cover image was sourced from the open source website Pexels [Pexels link]
 
 
-- Thibault Trillet [https://www.pexels.com/@thibault-trillet-44912/] for Hero Image
-- hero image (https://www.pexels.com/photo/singer-singing-on-stage-beside-guitar-player-and-bass-player-167636/)
+- [Thibault Trillet](https://www.pexels.com/@thibault-trillet-44912/)
+- [Hero Image](https://www.pexels.com/photo/singer-singing-on-stage-beside-guitar-player-and-bass-player-167636/)
 
 Album artwork used throughout is all used for review purposes, falling under fair use. 
 All credit and thanks to the individual bands and artists who created the artwork.
 
-- Joy Division [https://www.joydivisionofficial.com/reimagined/] Unknown Pleasures - art by Peter Saville [https://petersaville.info/]
+- [Joy Division](https://www.joydivisionofficial.com/reimagined/) Unknown Pleasures - art by Peter Saville [https://petersaville.info/]
 
-- Opeth [http://opeth.com/index.php] Blackwater Park - Travis Smith [https://www.seempieces.com/]
+- [Opeth](http://opeth.com/index.php) Blackwater Park - Travis Smith [https://www.seempieces.com/]
 
-- Black Sabbath [https://www.blacksabbath.com/] Paranoid - Keith Macmillan
+- [Black Sabbath](https://www.blacksabbath.com/) Paranoid - Keith Macmillan
 
-- Metallica [https://www.metallica.com/] Master Of Puppets - Don Brautigam
+- [Metallica](https://www.metallica.com/) Master Of Puppets - Don Brautigam
 
-- Tool [https://toolband.com/] Ænima - Cam de Leon
+- [Tool](https://toolband.com/) Ænima - Cam de Leon
 
 
 
