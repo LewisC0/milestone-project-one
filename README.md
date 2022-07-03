@@ -63,15 +63,19 @@ My website has a home page, and then 2 other pages, that being a Contact page an
 - Album list - A page dedicated to presenting the albums I have reviewed to the user.
 
 
-Navigation
+## Navigation
 
 -
 
+![Navbar Desktop Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Navbar%20Desktop.PNG?raw=true)
 
+![Navbar Mobile Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Navbar%20Mobile.PNG?raw=true)
 
-Footer
+## Footer
 
--
+![Footer Desktop Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Footer%20Desktop.PNG?raw=true)
+![Footer Mobile Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Footer%20Mobile.PNG?raw=true)
+
 
 
 
