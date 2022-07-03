@@ -2,14 +2,14 @@
 
 ## Milestone Project 1 - Static Front-End Website
 
+LCReviews is my own personal website dedicated to reviewing albums and bands from a variety of genres. The aim of the site is to share my love and passion for music, by expressing my thoughts and opinions on the artists I love. The website is fully responsive across a variety of different devices, allowing for a very positive user experience.
 
+This is my Milestone Project 1 submissionm for Code Institute's course on Web Application Development, which features 3 seperate pages built using HTML, CSS and code libraries such as Bootstrap.
 
 
 
 
 # UX - User Experience
-
-
 
 ## Project Goals
 
@@ -53,6 +53,11 @@ As a user interested in wanting to see a specific album I enjoy, getting reviewe
 
 Text throughout the website is in Roboto font style. Roboto is a very well designed modern font which is very easy to read and looks great on any number of devices.
 
+## Colour Scheme
+
+Throughout the entire website, I used a very simple 3 colour scheme. The colours contrast very well, which allows for a very clear and easy to use website
+
+![Website Colour Scheme](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Colour%20Scheme.PNG?raw=true)
 
 Page Layout
 
@@ -65,13 +70,15 @@ My website has a home page, and then 2 other pages, that being a Contact page an
 
 ## Navigation
 
--
+Each page I created is present in the navbar, which lets the user navigate to each page without issue. The navbar is functional on each created page which lets the user freely travel between each page. Depending on the page the user is currently on, a small underline will appear under the current page in the navigation bar, this shows it is the active page for the user. The navigation bar is not designed to be sticky, so the screen is less cluttered, especially for mobile users.
 
 ![Navbar Desktop Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Navbar%20Desktop.PNG?raw=true)
 
 ![Navbar Mobile Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Navbar%20Mobile.PNG?raw=true)
 
 ## Footer
+
+The footer is a simple design, which features contact information, as well as social media links. Just like the header, the footer is not sticky and can only be seen when scrolling to the very bottom of each page. This allows for a less cluttered user experience.
 
 ![Footer Desktop Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Footer%20Desktop.PNG?raw=true)
 ![Footer Mobile Design](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/Footer%20Mobile.PNG?raw=true)
