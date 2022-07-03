@@ -6,7 +6,13 @@ LCReviews is my own personal website dedicated to reviewing albums and bands fro
 
 This is my Milestone Project 1 submissionm for Code Institute's course on Web Application Development, which features 3 seperate pages built using HTML, CSS and code libraries such as Bootstrap.
 
+## Live Website
 
+[View the live website here](https://lewisc0.github.io/milestone-project-one/)
+
+## Repository
+
+[View the repository here](https://github.com/LewisC0/milestone-project-one)
 
 
 # UX - User Experience
