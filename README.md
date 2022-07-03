@@ -86,6 +86,11 @@ Footer
 
 ## Existing features
 
+- The website is mobile friendly and responsive on all devices. The website was designed with mobile devices in mind, making it fully responsive on all devices. This was accomplished using a mixture of Bootstrap's grid system, Media Queries and Flexbox.
+- An interactive mobile friendly navbar, which when viewed on a mobile, transforms into a functional drop down menu.
+- CSS image transition animation on ther hero banner image.
+- Fully functional buttons and links.
+- Contact Form.
 
 ## Features to possibily implement
 
