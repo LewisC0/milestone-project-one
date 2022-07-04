@@ -120,7 +120,7 @@ The footer is a simple design, which features contact information, as well as so
 
 ## Languages
 
--[HTML5](https://en.wikipedia.org/wiki/HTML)
+- [HTML5](https://en.wikipedia.org/wiki/HTML)
 
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
@@ -143,7 +143,7 @@ responsive navbar, as well as including some Bootstrap buttons and class styling
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Through the creation of the website, I used Chrome DevTools to troubleshoot and test the responsiveness of the website.
 
-- Balsamiq - I used Balsamiq to design the wireframes for the website.
+- [Balsamiq](https://balsamiq.com/wireframes/) - I used Balsamiq to design the wireframes for the website.
 
 
 # Deployment
@@ -235,6 +235,8 @@ The website was built with mobile design in mind, which is clear to see when tes
 
 # Credits
 
+## Code
+
 [Code Institute](https://codeinstitute.net/) - I referred to lessons and source code from Code Institute's Web Application Development course.
 I sourced code for the Footer social media links and icons from the Resume Project, as well as the Bootstrap Navbar.
 
@@ -273,10 +275,5 @@ All credit and thanks to the individual bands and artists who created the artwor
 - [Tool](https://toolband.com/) Ænima - Cam de Leon
 
 
-
-
-## Code
-
-acknowledgements
 
 
