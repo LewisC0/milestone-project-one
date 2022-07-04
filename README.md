@@ -14,11 +14,6 @@ This is my Milestone Project 1 submissionm for Code Institute's course on Web Ap
 
 [View the repository here](https://github.com/LewisC0/milestone-project-one)
 
-# Table of Contents
-
-
-
-
 
 # User Experience
 
