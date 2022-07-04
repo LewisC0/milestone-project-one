@@ -14,8 +14,13 @@ This is my Milestone Project 1 submissionm for Code Institute's course on Web Ap
 
 [View the repository here](https://github.com/LewisC0/milestone-project-one)
 
+# Table of Contents
 
-# UX - User Experience
+
+
+
+
+# User Experience
 
 ## Project Goals
 
@@ -231,6 +236,7 @@ The website was built with mobile design in mind, which is clear to see when tes
 - Surface Pro 7
 - Surface Duo
 
+## Testing User Stories
 
 
 # Credits
