@@ -233,6 +233,36 @@ The website was built with mobile design in mind, which is clear to see when tes
 
 ## Testing User Stories
 
+### As a user interested in music and reviews
+- The website appears to be easy to use and understand
+- At the home page there are some visible album covers, which appear to be links to album reviews.
+- There are clear calls to action which would take me to see more reviews.
+- In the navigation bar, there is a clear section dedicated to listing album reviews.
+- By either clicking the call to action beneath the hero banner, or clicking 'Albums' in the navigation bar, I am taken to a page dedicated to listing reivews.
+- I can now go on to choose which review I would like to read.
+
+### As a user interested in wanting to see a specific album I enjoy, getting reviewed
+
+- The website appears to be easy to use and understand.
+- Along the navigation bar, there appears to be a 'Contact' page which I can navigate to.
+- When navigating to the contact page, there appears to be a form which let's me get in contact with the website owner, to suggest reviews I would like to see.
+- There also appears to be contact details, as well as social media links, which give me other means of getting my specific album reviewed.
+
+
+## Bugs and Issues
+
+
+### Resolved
+
+- There was an issue with the hero banner, where the text would start to flow off screen on mobile devices. I fixed this by adding some media queries to shrink the size of the text container, when the screen size shrank.
+- The HTML validator initially flagged some minor issues throughout some pages, such as certain tags not being identical when opening and closing, or some minor spelling mistakes throughout. These were all quickly fixed after they were flagged.
+- Within the home page, when the screen size shrunk, the album cards would initially shrink in size alongside the screen resolution. This was fixed by setting the container these cards reside in, to a flex wrap, which made the cards stay at their intended size no matter the resolution.
+
+### Unresolved
+
+- When viewing the website on mobile devices, their appears to be some extra blank space to the right side of the page, which lets the user scroll horizontally a small amount. This is unintended in the design and will be fixed.
+
+
 
 # Credits
 
