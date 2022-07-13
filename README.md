@@ -241,6 +241,9 @@ The website was built with mobile design in mind, which is clear to see when tes
 - By either clicking the call to action beneath the hero banner, or clicking 'Albums' in the navigation bar, I am taken to a page dedicated to listing reivews.
 - I can now go on to choose which review I would like to read.
 
+![Album page](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/album-list-screencap.png?raw=true)
+
+
 ### As a user interested in wanting to see a specific album I enjoy, getting reviewed
 
 - The website appears to be easy to use and understand.
@@ -248,7 +251,7 @@ The website was built with mobile design in mind, which is clear to see when tes
 - When navigating to the contact page, there appears to be a form which let's me get in contact with the website owner, to suggest reviews I would like to see.
 - There also appears to be contact details, as well as social media links, which give me other means of getting my specific album reviewed.
 
-
+![Contact page](https://github.com/LewisC0/milestone-project-one/blob/main/assets/site%20screencaps/contact-page-screencap.png?raw=true)
 ## Bugs and Issues
 
 
